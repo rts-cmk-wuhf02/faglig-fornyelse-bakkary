@@ -8,7 +8,9 @@ Du skal som det fremgår umiddebart herover demonstere at du kan anvende den til
 ***Nedenstående skrives i readme.md filen fra opgave rapo.***
 
 1. En kort beskrivelse af det produkt du vil udvikle
+jeg har fundet en tutorial jeg vil arbejde videre på med den viden jeg tiltrækker migselv fra tutorialen og andre steder
 
 2. En beskrivelse af den teknologi du vil anvende i udviklingen
 
 3. En liste over de ressourcer som har hjulpet dig i processen
+https://www.tutorialspoint.com/cobol/index.htm
